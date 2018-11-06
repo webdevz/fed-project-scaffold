@@ -2,7 +2,7 @@
 
 This scaffold can be used as a template for writing FED development code.
 It uses Node.JS and Gulp.JS tasks to compile separate CSS, JS and HTML.
-It then "builds" your project code into one file that can be copy/pasted into Demandware.
+It then "builds" your project code into one HTML file.
 
 ## Dependencies
 
