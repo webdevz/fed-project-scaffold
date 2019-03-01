@@ -2,12 +2,12 @@
   "name": "fed-xxxx",
   "version": "0.0.1",
   "description": "FED-xxxx - Project Title",
-  "author": "Your Name <email@domain.com>",
+  "author": "Your Name <email@wwwinc.com>",
   "dependencies": {
     "del": "3.0.0",
     "event-stream": "3.3.4",
     "glob": "^7.1.3",
-    "gulp": "3.9.1",
+    "gulp": "4.0.0",
     "gulp-concat": "2.6.1",
     "gulp-insert": "0.5.0",
     "gulp-rename": "^1.4.0",
@@ -18,6 +18,9 @@
   },
   "devDependencies": {
     "gulp-inject-css": "^1.0.0",
-    "gulp-inject-js": "^1.0.0"
+    "gulp-inject-js": "^1.0.0",
+    "gulp-webp": "^4.0.1",
+    "imagemin": "^6.1.0",
+    "imagemin-webp": "^5.0.0"
   }
 }
