@@ -2,7 +2,7 @@
   "name": "fed-xxxx",
   "version": "0.0.1",
   "description": "FED-xxxx - Project Title",
-  "author": "Your Name <email@wwwinc.com>",
+  "author": "Your Name <email@domain.com>",
   "dependencies": {
     "del": "3.0.0",
     "event-stream": "3.3.4",
