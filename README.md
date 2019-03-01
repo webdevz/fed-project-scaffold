@@ -21,5 +21,13 @@ It then "builds" your project code into one HTML file.
   - Watch for changes to your files and rebuild them.
 
 
-### Package.json
+## Package.json
 - Update the Project Name, Description and Email at `package.json` before running `npm install`
+
+## Updates
+
+### March 1, 2019
+
+Added the ability to convert PNG and JPG to WEBP format. 
+- Adjust the the image file size in `gulpfile.js`
+- All images that are converted are sent to `build/images/`
